@@ -4,7 +4,7 @@
 
 I build production-grade agentic and LLM systems, with evaluation pipelines at the forefront.
 
-🌐 [naomiking.dev](https://www.naomiking.dev/) · 💻 `ssh naomiking.xyz`
+🌐 [naomiking.dev](https://www.naomiking.dev/) · 💻 `ssh naomiking.xyz` · 🙋‍♀️ [linkedIn](https://www.linkedin.com/in/naomi-king-0374891ba/)
 
 ---
 
